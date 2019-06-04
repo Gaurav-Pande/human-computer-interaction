@@ -1,0 +1,26 @@
+response,Select your age,How often do you use youtube mobile application,"Please open the wireframe below. In this Wireframe do you think it will be a usable feature to mark a video as ""Not Interested"" by swipping a video to the left?","If you answered ""No"" to the above question, can you explain why do you think so? Please type ""NA"" if it is not applicable.","Please open the wireframe below. In this Wireframe do you think it will be a usable feature to mark a video as ""Interested"" by swipping a video to the right?","If you answered ""No"" to the above question, can you explain why do you think so? Please type ""NA"" if it is not applicable.","In Both the above wireframes, do you think it is good to include a ""UNDO"" option, as sometimes you may by mistake swipe left/right?","Please open the wireframe below. Do you think it would be better to tag a video after you watch it to a certain category, so that your recommendations are well managed?",Do you consider yourself an expert user in surfing youtube mobile application?,"If ""Yes"", then please look at a sample wireframe below. Do you think when you watch a video, you can easily mark a video as Interested/Not Interested by simple drawing some gestures using your fingers on the touch screen, like shown in the wireframe below?",Do you think overall the above wireframes can help you in controlling your recommendations easily?
+1,30 - 39,Frequently,Yes,NA,No,Why to the right but not to the top?,Yes,No,Yes,I don't want to use two hands.,No
+2,30 - 39,Frequently,Yes,NA,Yes,NA,Yes,No,Yes,"I think you can easily mark them, but I'm not fond of drawing gestures",Yes
+3,30 - 39,Never,Yes,NA,Yes,NA,No,Yes,No,Seems easier to swipe that drawing gestures,Yes
+4,18 - 29,Frequently,Yes,NA,Yes,NA,Yes,Yes,No,NA. I just watch youtubes to watch videos of my own interest.,Yes
+5,30 - 39,Very Frequently,Yes,NA,Yes,NA,Yes,Yes,Yes,Yes,No
+6,18 - 29,Never,Yes,NA,Yes,NA,Yes,Yes,No,NA,Yes
+7,30 - 39,Frequently,Yes,NA,Yes,NA,Yes,Yes,No,Yes,Yes
+8,30 - 39,Frequently,Yes,NA,Yes,NA,Yes,Yes,No,NA,Yes
+9,50 - 64,Never,Yes,N/A,Yes,N/A,Yes,Yes,No,N/A,Yes
+10,18 - 29,Frequently,Yes,NA,Yes,NA,Yes,Yes,No,NA,Yes
+11,30 - 39,Very Frequently,Yes,answered yes,Yes,answered yes,Yes,Yes,Yes,yes,Yes
+12,30 - 39,Frequently,Yes,NA,Yes,NA,Yes,Yes,Yes,Yes,Yes
+13,18 - 29,Rarely,Yes,na,Yes,na,Yes,Yes,No,na,Yes
+14,18 - 29,Rarely,Yes,na,Yes,na,Yes,Yes,Yes,sounds fun sure,Yes
+15,30 - 39,Sometimes,No,NA,No,NA,No,No,No,NA,Yes
+16,18 - 29,Frequently,Yes,N/A,Yes,N/A,Yes,Yes,No,N/A,Yes
+17,18 - 29,Sometimes,Yes,NA,Yes,NA,Yes,Yes,No,NA,Yes
+18,40 - 49,Very Frequently,Yes,na,Yes,na,Yes,Yes,No,na,Yes
+19,18 - 29,Frequently,Yes, NA,Yes, ,Yes,Yes,Yes, ,No
+20,18 - 29,Sometimes,Yes,NA,No,I would swipe to the right to rewatch a video I watched previously.,Yes,No,No,"Gestures may be difficult to recognize, and I don't want the app to mistake a gesture for a swipe",Yes
+21,18 - 29,Frequently,Yes,na,Yes,na,Yes,Yes,No,na,Yes
+22,18 - 29,Very Frequently,Yes,NA,Yes,NA,Yes,Yes,No,NA,Yes
+23,18 - 29,Very Frequently,Yes,Na,Yes,Na,Yes,No,Yes,Yes,Yes
+24,18 - 29,Very Frequently,Yes,NA,Yes,NA,Yes,Yes,Yes,Yes,Yes
+25,18 - 29,Frequently,Yes,NA,Yes,NA,Yes,Yes,Yes,No,Yes
